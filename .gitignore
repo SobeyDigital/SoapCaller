@@ -1,0 +1,7 @@
+out/
+*Test.java
+target/
+.project
+.classpath
+bin/
+.settings/
